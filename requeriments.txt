@@ -1,0 +1,6 @@
+Paquets que requereix la pràctica:
+
+- Sklearn
+- numpy
+- pandas
+- seaborn
