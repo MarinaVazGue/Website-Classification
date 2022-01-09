@@ -4,9 +4,8 @@
 
 # arxius que s'han d'importar que contenen les funcions que utilitzem
 from generate_features import *
-from train_models_ara import *
-from score_models_ara_si import *
-#from imports import *
+from train_models import *
+from score_models import *
 from hiperparametres import *
 
 data = carrega_data("website_classification.csv") # carreguem la base de dades cridant a la funcio corresponent
