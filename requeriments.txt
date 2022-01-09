@@ -4,3 +4,4 @@ Paquets que requereix la pràctica:
 - numpy
 - pandas
 - seaborn
+- time
