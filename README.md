@@ -28,7 +28,7 @@ Els resultats de les diferents proves dels models són les següents:
 | **Random Forest** | Arbres = 220 | 93.26% | 0.26717s |
 | **Kmeans** | K = 25 | 0.002% | 0.02619s |
 | **Bagging SVM** | C = 1, k = linear | 90.07% | 8.28453s |
-| **Bagging Regresiió Logística** | C = 2.0, tol = 0.001 | 94.8% | 0.25331s |
+| **Bagging Regresió Logística** | C = 2.0, tol = 0.001 | 94.8% | 0.25331s |
 | **Bagging KNN** | K = 1 | 83.98% | 2.11115s |
 | **Bagging KNN** | K = 7 | 48.40% | 0.72146s |
 | **Bagging Ada Boost** | - | 16.134% | 0.07828s |
