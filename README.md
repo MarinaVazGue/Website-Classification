@@ -42,8 +42,3 @@ El millor model que s'ha aconseguit ha estat la Regressió Logística i, seguida
 
 ## Idees per a treballar en un futur
 Aquesta pràctica podria ser millorable fent servir models més complexos. També, es podria indagar en l'ús de models de Pytorch ja que té més opcions i utilitats en general. 
-
-
-
-
-Classificació de diferents enllaços webs a diferents categories. 
