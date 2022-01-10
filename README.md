@@ -39,6 +39,7 @@ Per a poder executar-ho i veure els diferents resultats, tenim el fitxer _demo.p
 
 ## Conclusions
 El millor model que s'ha aconseguit ha estat la Regressió Logística i, seguidament, el SVM amb nucli lineal. Això es pot veure d'una manera molt ràpida amb la taula anterior de resultats dels models. És destacable veure que fent el Bagging d'aquests dos models, que són amb els que obtenim una precisió més alta, no obtenim resultats més significants, sinó que surten de molt similars.
+
 En últim terme, mirant els codis d'altres persones que utilitzen la mateixa base de dades, veiem que en general fem de forma semblant el preprocessament i que els valors de les precisions són de l'ordre que hem obtingut. A diferència de nosaltres, diverses persones han fet servir el classificador _Naive Bayes_ però no han obtingut una mètrica superior a 85%.
 
 ## Idees per a treballar en un futur
