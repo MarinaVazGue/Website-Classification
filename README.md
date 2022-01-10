@@ -31,7 +31,7 @@ Els resultats de les diferents proves dels models són les següents:
 | **Bagging Regresió Logística** | C = 2.0, tol = 0.001 | 94.8% | 0.25331s |
 | **Bagging KNN** | K = 1 | 83.98% | 2.11115s |
 | **Bagging KNN** | K = 7 | 48.40% | 0.72146s |
-| **Bagging Ada Boost** | - | 16.134% | 0.07828s |
+| **Boosting Ada Boost** | - | 16.134% | 0.07828s |
 
 ## Demo
 Per a poder executar-ho i veure els diferents resultats, tenim el fitxer _demo.py_ on hi ha una mostra dels entrenaments i tests dels models amb millors resultats. Per tal de fer una prova, es pot fer servir amb la següent comanda:
