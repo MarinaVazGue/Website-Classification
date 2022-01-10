@@ -20,7 +20,7 @@ Els resultats de les diferents proves dels models són les següents:
 
 | Model | <div style="width:220px">Hiperparàmetres</div> | Mètrica| Temps |
 |-- | -- | -- | -- |
-| **Regressió Logístoca** | C = 2.0, tol = 0.001 | 94.15% | 0.00795s |
+| **Regressió Logística** | C = 2.0, tol = 0.001 | 94.15% | 0.00795s |
 | **SVM** | C = 1, k = linear | 91.49%  |  1.09609s |
 | **Arbre de decisió** | - | 82.092% | 0.00199s |
 | **KNN** | K = 1 | 84.75% | 0.09782s |
